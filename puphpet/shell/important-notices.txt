@@ -1,0 +1,48 @@
+                                              _
+                                             / )
+                                        .--.; |    _...,-"""-,
+                         .-""-.-""""-. /   _`'-._.'   /`      \
+                        /'     \      \|  (/'-._/     )        ;
+                .-""""-;       (       '--' /-'    _           |
+              .'       |        ;    e     /       a  ,       ;
+             /          \       |      __.'`-.__,    ;       /
+            /            `._     ;    .-'     `--.,__.\    /`
+           //|              \     \,-'                /\_.'
+          // |               `;.___>              /,-'.
+        /`|  /                |`\      _..---\    |    \
+        |/  /     _,.-----\   |  \   /`|      |   |\    \
+           /    .;   |    |   |   \ /  |      |   | \    )
+          |    / |   \    /   |\..' \   \     |   \  \..'
+       jgs \../  \.../    \.../ \.../---'     \.../
+
+Read me for some important information!
+
+If Puppet did not blow up (you do not see a sea of red above), then your VM
+was generated successfully!
+
+* A unique private key was generated for you! It is located at
+  "puphpet/files/dot/ssh/id_rsa". If you are on Windows, a PuTTY-friendly key
+  was also generated at same location with a ".ppk" extension.
+* If you want to use your own private key for future provisions, overwrite the
+  generated key above with your own. Make sure to follow the naming pattern,
+  and include a ".pub" public key.
+* Laravel is installed in /var/www/ and a domain name coeus-laravel.dev has been configured to
+  point to /var/www/public
+* A host entry need to be added on your host machine's "Hosts" file with the following data
+  coeus-laravel.dev   192.168.56.101
+* Once the entry has been added , point your browser to the following address
+  http://coeus-laravel.dev
+
+
+
+Happy programming!
+                                                            
+
+┈╭━━━━━━━━━━━━┳━━╮┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+ ┃         ╭╯ ┃ ▋┃╭━┓   ____                _      _    _                    _
+╭┫         ┃  ┃  ┃┃╭┛  |  _ \ ___  __ _  __| |    / \  | |__   _____   _____| |
+┃┃         ╰━━╯ ┃╰╯┃   | |_) / _ \/ _` |/ _` |   / _ \ | '_ \ / _ \ \ / / _ \ |
+╯┃              ╰┳━╯   |  _ <  __/ (_| | (_| |  / ___ \| |_) | (_) \ V /  __/_|
+ ┃               ┃     |_| \_\___|\__,_|\__,_| /_/   \_\_.__/ \___/ \_/ \___(_)
+ ┃ ┏━┳━━━━━━━┓ ┏ ┃
+▔┗━┻━┛▔▔▔▔▔▔▔┗━┻━┛▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
