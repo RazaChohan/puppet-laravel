@@ -1,8 +1,8 @@
 ---
 vagrantfile-local:
     vm:
-        box: precise32
-        box_url: 'http://files.vagrantup.com/precise32.box'
+        box: puphpet/ubuntu1204-x64
+        box_url: puphpet/ubuntu1204-x64
         hostname: null
         memory: '512'
         chosen_provider: virtualbox
