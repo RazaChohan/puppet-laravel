@@ -59,7 +59,6 @@ server:
         - wget
         - lynx
         - vim
-        - phpmyadmin
     dot_files:
         -
             bash_aliases: null
@@ -88,7 +87,6 @@ apache:
     modules:
         - php
         - rewrite
-        - authn_core
     vhosts:
         CQlowlhaXSK4:
             servername: coeus-laravel.dev
