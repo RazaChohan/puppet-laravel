@@ -158,7 +158,7 @@ drush:
 mysql:
     install: '1'
     root_password: '123'
-    adminer: 0
+    adminer: '1'
     databases:
         IHX9d2f0nX9m:
             grant:
