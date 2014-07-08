@@ -1,7 +1,7 @@
 ---
 vagrantfile-local:
     vm:
-        box: puphpet/ubuntu1204-x64
+        box: precise32
         box_url: puphpet/ubuntu1204-x64
         hostname: null
         memory: '512'
@@ -59,6 +59,7 @@ server:
         - wget
         - lynx
         - vim
+        - phpmyadmin
     dot_files:
         -
             bash_aliases: null
